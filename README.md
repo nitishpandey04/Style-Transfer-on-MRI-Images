@@ -3,7 +3,7 @@
 ### Idea:
 There are various types of MRI that have the ability to capture different types of abnormalities. However, one type of MRI may not be sufficient in capturing a particular type of abnormality. In this case, having another type of MRI may enhance the accuracy of a diagnosis, thus leading to better treatment of the patient.
 
-However, gaining access to different imaging techniques is difficult and expensive. Also, doctors often prescribe one type of MRI at once, but what if you could create another type of MRI from the one that we already have? Moreover, without investing the same amount of time and money?
+However, gaining access to different imaging techniques is difficult and expensive. Also, doctors often prescribe one type of MRI at once, but what if we could create another type of MRI from the one that we already have? Moreover, without investing the same amount of time and money?
 
 ### Understanding:
 Let’s understand the T1 and T2 type MRIs in concrete terms. There are some component types such as Water, Fat, Muscle and Tumors which establish contrast relationship between MRIs. Moreover some of the elements have different contrast level whereas Bone component in MRIs gets highlighted in the same way in both the MRIs. Hence we can see that it’s a partial contrast but not complete contrast. 
