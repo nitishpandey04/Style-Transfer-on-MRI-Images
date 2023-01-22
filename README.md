@@ -18,13 +18,7 @@ With the help of deep learning, we can use style transfer to generate artificial
 In this project, we have used CycleGAN to translate the style of one MRI image to another, which will help in a better understanding of the scanned image. Using GANs we have created T2 weighted images from T1 weighted MRI image and vice-versa.
 
 #### Tech Stack:
-python
-tensorflow
-keras
-numpy
-pandas
-matplotlib
-skimage
+python, tensorflow, keras, numpy, pandas, matplotlib, skimage
 
 #### Dataset
 - The dataset is divided into two classes Tr1 and Tr2
