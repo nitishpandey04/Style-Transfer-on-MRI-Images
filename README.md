@@ -16,3 +16,17 @@ As this is not a complete list of components that are highlighted in the MRIs, t
 With the help of deep learning, we can use style transfer to generate artificial MRI images of different contrast levels from existing MRI scans. This will help to provide a better diagnosis with the help of an additional image.
 
 In this project, we have used CycleGAN to translate the style of one MRI image to another, which will help in a better understanding of the scanned image. Using GANs we have created T2 weighted images from T1 weighted MRI image and vice-versa.
+
+#### Tech Stack:
+python
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+skimage
+
+#### Dataset
+- The dataset is divided into two classes Tr1 and Tr2
+- Tr1 contains 43 images and Tr2 contains 46 images
+- You can access the dataset [here](https://huggingface.co/datasets/nitishpandey04/MRI-Unpaired-T1-and-T2-Images/blob/main/MRI_Dataset-20230122T105937Z-001.zip)
