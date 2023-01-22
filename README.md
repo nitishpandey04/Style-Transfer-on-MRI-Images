@@ -8,9 +8,9 @@ However, gaining access to different imaging techniques is difficult and expensi
 ### Understanding:
 Let’s understand the T1 and T2 type MRIs in concrete terms. There are some component types such as Water, Fat, Muscle and Tumors which establish contrast relationship between MRIs. Moreover some of the elements have different contrast level whereas Bone component in MRIs gets highlighted in the same way in both the MRIs. Hence we can see that it’s a partial contrast but not complete contrast. 
 
-![T1 vs T2 table](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![T1 vs T2 table](https://github.com/nitishpandey04/Style-Transfer-on-MRI-Images/blob/master/t1_vs_t2_table.png)
 
-As this is not a complete list of components that are highlighted in the MRIs, to learn more about T1 and T2 images, you may visit here.
+As this is not a complete list of components that are highlighted in the MRIs, to learn more about T1 and T2 images, you may visit [here](https://www.radiologymasterclass.co.uk/tutorials/mri/t1_and_t2_images).
 
 ### Solution:
 With the help of deep learning, we can use style transfer to generate artificial MRI images of different contrast levels from existing MRI scans. This will help to provide a better diagnosis with the help of an additional image.
